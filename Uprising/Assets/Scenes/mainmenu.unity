@@ -647,6 +647,7 @@ GameObject:
   - 114: {fileID: 1614964990}
   - 65: {fileID: 1614964989}
   - 114: {fileID: 1614964991}
+  - 114: {fileID: 1614964992}
   m_Layer: 30
   m_Name: Button
   m_TagString: Untagged
@@ -770,6 +771,18 @@ MonoBehaviour:
   hover: {x: 1.10000002, y: 1.10000002, z: 1.10000002}
   pressed: {x: 1.04999995, y: 1.04999995, z: 1.04999995}
   duration: .200000003
+--- !u!114 &1614964992
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1614964986}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4df31385379812441bfc75a419c76729, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  levelName: PlatformTest
 --- !u!1 &1679404201
 GameObject:
   m_ObjectHideFlags: 0

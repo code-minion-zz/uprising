@@ -12,3 +12,6 @@
 /*.pidb
 /*.booproj
 *.csproj
+Library
+obj
+*.sln
