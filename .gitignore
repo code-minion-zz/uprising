@@ -15,3 +15,6 @@
 Library
 obj
 *.sln
+*.DotSettings
+*.userprefs
+*.sln
