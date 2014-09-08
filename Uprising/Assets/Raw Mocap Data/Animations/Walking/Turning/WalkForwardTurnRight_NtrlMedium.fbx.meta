@@ -178,14 +178,14 @@ ModelImporter:
     - serializedVersion: 16
       name: WalkForwardTurnRight_NtrlMedium
       takeName: _7_a_U1_M_P_WalkForwardTurnRight_NtrlMedium__Fb_Dia2m_No_0_PJ_1
-      firstFrame: 0
-      lastFrame: 486
+      firstFrame: 190
+      lastFrame: 385
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
       loop: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0

@@ -182,8 +182,8 @@ ModelImporter:
     - serializedVersion: 16
       name: RunForwardTurnRight_NtrlMedium
       takeName: _31_a_U1_M_P_RunForwardTurnRight_NtrlMedium__Fb_Dia2m_No_0_PJ_4
-      firstFrame: 0
-      lastFrame: 235
+      firstFrame: 35
+      lastFrame: 119
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
